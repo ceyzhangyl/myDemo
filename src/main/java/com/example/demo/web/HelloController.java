@@ -12,6 +12,7 @@ public class HelloController {
         System.out.println("再修改一次");
         System.out.println("修改4");
         System.out.println("日了狗");
+        System.out.println("xxxxxxxxxxx");
         return "hello zhang";
     }
 }
